@@ -16,7 +16,7 @@ import (
 	"github.com/mattn/go-isatty"
 	"github.com/valyala/fasttemplate"
 
-	"github.com/labstack/gommon/color"
+	"github.com/GanillaGrace/gommon/color"
 )
 
 type (

@@ -7,7 +7,7 @@ import (
 	"net/mail"
 	"net/smtp"
 
-	"github.com/labstack/gommon/random"
+	"github.com/GanillaGrace/gommon/random"
 )
 
 type (
